@@ -2,3 +2,6 @@
 git merge --abort
 git merge branchname
 git rebase branchname
+git add .
+git status
+git commit -m "label"
