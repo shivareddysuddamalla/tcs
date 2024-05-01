@@ -1,1 +1,4 @@
 1234567890
+git merge --abort
+git merge branchname
+git rebase branchname
