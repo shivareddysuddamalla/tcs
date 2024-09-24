@@ -4,3 +4,7 @@ git rebase branchname
 git add .
 git status
 git commit -m "label"
+git log
+git revert cid
+git show cid
+
