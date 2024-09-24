@@ -5,4 +5,8 @@ git add .
 git status
 git clone
 git commit -m "label"
+<<<<<<< HEAD
 git init
+git log
+git revert cid
+git show cid
