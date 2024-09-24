@@ -3,4 +3,6 @@ git merge branchname
 git rebase branchname
 git add .
 git status
+git clone
 git commit -m "label"
+git init
